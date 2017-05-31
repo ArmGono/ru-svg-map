@@ -6,4 +6,4 @@
 Для карты на каждый регион указан ID региона, который уникален и соответствует id из json файла заголовоков. 
 Так же каждый регион отмечен классом russia-region для стилизации регионов. 
 
-![Russia](https://raw.githubusercontent.com/ArmGono/ru-svg-map/bae5f01fbf44b4360c6a5eeef88779717487076c/russia.svg)
+![Russia](https://raw.githubusercontent.com/ArmGono/ru-svg-map/22b820947854c7b72ab472ec30ce03ba75cd1853/russia.svg)
